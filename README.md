@@ -12,3 +12,4 @@ At the end I solved the issue by the following two lines:
 `!conda install mamba -c conda-forge --force-reinstall -y`
 
 These may needed to try in both jupyter notebook and the ubuntu terminal
+related website: https://github.com/conda/conda-libmamba-solver
